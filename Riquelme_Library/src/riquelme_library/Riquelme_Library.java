@@ -15,6 +15,7 @@ public class Riquelme_Library {
      */
     public static void main(String[] args) {
         System.out.println("Imam Adi Wicaksana");
+        System.out.println("Hidup Jokowi");
     }
     
 }
